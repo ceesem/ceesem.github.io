@@ -10,8 +10,6 @@ website:
         text: Home
       - href: projects.qmd
         text: Projects
-      - href: code.qmd
-        text: Code
       - href: full_cv.qmd
         text: CV
 format:

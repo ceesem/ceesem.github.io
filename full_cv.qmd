@@ -14,7 +14,9 @@ css: cv.css
 ---
 
 ::: {.print-only .contact-block}
-caseys@alleninstitute.org
+Email: caseys@alleninstitute.org\
+Web: https://www.csdashm.org\
+Bluesky: @csdashm.bsky.social
 :::
 
 ## Research Interests {.smaller}
@@ -48,24 +50,24 @@ Postdoctoral researcher in the lab of Albert Cardona studying the neural basis o
 ## Publications
 
 ::: {.callout-note}
-### Co-lead authorships
-* **&**: indicates a multi-lead author contribution.
-* **µ**: indicates a MICrONs project. These papers include all individuals responsible for generating the structural data or analysis infrastructure prior to public availability. Complete author lists of MICrONs papers are truncated for clarity.
+### Note on co-lead authorships
+* **&**: indicates a typical multi-lead author contribution.
+* **µ**: indicates a MICrONs project. As part of the consortium guidelines, authorship included all individuals responsible for generating the structural data or analysis infrastructure prior to public availability. Complete author lists of MICrONs papers are truncated for clarity.
 :::
 
 ### Highlighted Publications
 
-[*Projects where my contribution helped drive the overall work.*]{.small}
+[*Projects with a driving contribution.*]{.small}
 
 1. (**µ**) C M Schneider-Mizell, *et al.*... , N M da Costa. *Cell-type-specific inhibitory circuitry from a connectomic census of mouse visual cortex.* In press, Nature. [[BioRxiv](https://www.biorxiv.org/content/10.1101/2023.01.23.525290v3)]
 
-1. S. Dorkenwald (**&**), C. M. Schneider-Mizell (**&**), D. Brittain, A. Halageri, C. Jordan, N. Kemnitz, M.A. Castro, W. Silversmith, J. Maitin-Shepard, J. Triodl, H. Pfister, V. Gillet, D. Xenes, J.A. Bae, A.L. Bodor, J. Buchanan, D. J. Bumbarger, L. Elabbady, Z. Jia, D. Kapner, S. Kinn, K. Lee, K. Li, R. Lu, T. Macrina, G. Mahalingam, E. Mitchell. S.S. Mondal, S. Mu, B. Nehoran, S. Popovych, M. Takeno, R. Torres, N. L. Turner, W. Wong, J. Wu, W. Yin, S. Yu, R.C. Reid, N. M. da Costa, H.S. Seung, F. Collman. *CAVE: Connectome Annotation Versioning Engine*. bioRxiv 2023.07. 26.550598 (2023). In press, Nature Methods. [[BioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.26.550598v1)]
+1. (**µ**) S. Dorkenwald (**&**), C. M. Schneider-Mizell (**&**), D. Brittain, A. Halageri, C. Jordan, N. Kemnitz, M.A. Castro, W. Silversmith, J. Maitin-Shepard, J. Triodl, H. Pfister, V. Gillet, D. Xenes, J.A. Bae, A.L. Bodor, J. Buchanan, D. J. Bumbarger, L. Elabbady, Z. Jia, D. Kapner, S. Kinn, K. Lee, K. Li, R. Lu, T. Macrina, G. Mahalingam, E. Mitchell. S.S. Mondal, S. Mu, B. Nehoran, S. Popovych, M. Takeno, R. Torres, N. L. Turner, W. Wong, J. Wu, W. Yin, S. Yu, R.C. Reid, N. M. da Costa, H.S. Seung, F. Collman. *CAVE: Connectome Annotation Versioning Engine*. bioRxiv 2023.07. 26.550598 (2023). In press, Nature Methods. [[BioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.26.550598v1)]
 
 1. (**µ**) A L Bodor (**&**), C M Schneider-Mizell (**&**), ... N M da Costa. *The Synaptic Architecture of Layer 5 Thick Tufted Excitatory Neurons in the Visual Cortex of Mice*. In revision. [[BioRxiv](https://www.biorxiv.org/content/10.1101/2023.10.18.562531v1)]
 
-1. N. Turner (**&**), T. Macrina (**&**), J. Bae (**&**), R. Yang (**&**), A.M. Wilson (**&**), C.M. Schneider-Mizell (**&**), K. Lee (**&**), R. Lu (**&**), J. Wu (**&**), A. Bodor (**&**), A. Bleckert (**&**), D. Brittain (**&**), E. Froudarakis (**&**), S. Dorkenwald (**&**), F. Collman (**&**), N. Kemnitz (**&**), D. Ih, W. Silversmith, J. Zung, A. Zlateski, I. Tartavull, S. Yu, S. Popovych, S. Mu, W. Wong, C. Jordan, M. Castro, J. Buchanan, D. Bumbarger, M. Takeno, R. Torres, G. Mahalingam, L. Elabbady, Y. Li, E. Cobos, P. Zhou, S. Suchow, L. Becker, L. Paninski, F. Polleux, J. Reimer, A.S. Tolias, R.C. Reid, N.M. da Costa, H.S. Seung. *Reconstruction of neocortex: Organelles, compartments, cell, circuits, and activity*. Cell, 185 (6) (2022) [[Journal](https://www.sciencedirect.com/science/article/pii/S0092867422001349)]
+1. (**µ**) N. Turner (**&**), T. Macrina (**&**), J. Bae (**&**), R. Yang (**&**), A.M. Wilson (**&**), C.M. Schneider-Mizell (**&**), K. Lee (**&**), R. Lu (**&**), J. Wu (**&**), A. Bodor (**&**), A. Bleckert (**&**), D. Brittain (**&**), E. Froudarakis (**&**), S. Dorkenwald (**&**), F. Collman (**&**), N. Kemnitz (**&**), D. Ih, W. Silversmith, J. Zung, A. Zlateski, I. Tartavull, S. Yu, S. Popovych, S. Mu, W. Wong, C. Jordan, M. Castro, J. Buchanan, D. Bumbarger, M. Takeno, R. Torres, G. Mahalingam, L. Elabbady, Y. Li, E. Cobos, P. Zhou, S. Suchow, L. Becker, L. Paninski, F. Polleux, J. Reimer, A.S. Tolias, R.C. Reid, N.M. da Costa, H.S. Seung. *Reconstruction of neocortex: Organelles, compartments, cell, circuits, and activity*. Cell, 185 (6) (2022) [[Journal](https://www.sciencedirect.com/science/article/pii/S0092867422001349)]
 
-1. C. M. Schneider-Mizell (**&**), A. L. Bodor (**&**), F. Collman (**&**), D. Brittain (**&**), A.A. Bleckert (**&**), S. Dorkenwald (**&**), N.L. Turner (**&**), T. Macrina (**&**), K. Lee (**&**), R. Lu (**&**), J. Wu (**&**), J. Zhuang, A. Nandi, B. Hu, J. Buchanan, M.M. Takeno, R. Torres, G. Mahalingam, D.J. Bumbarger, Y. Li, T. Chartrand, N. Kemnitz, W.M. Silversmith, D. Ih, J. Zung, A. Zlateski, I. Tartavull, S. Popovych, W. Wong, M. Castro, C. S. Jordan, E. Froudarakis, L. Becker, S. Suckow, J. Reimer, A. S. Tolias, C. Anastassiou, H. S. Seung, R. C. Reid, N. M. da Costa. *Structure and function of axo-axonic inhibition*. eLife;10:e73783 (2021) [[Journal](https://elifesciences.org/articles/73783)]
+1. (**µ**) C. M. Schneider-Mizell (**&**), A. L. Bodor (**&**), F. Collman (**&**), D. Brittain (**&**), A.A. Bleckert (**&**), S. Dorkenwald (**&**), N.L. Turner (**&**), T. Macrina (**&**), K. Lee (**&**), R. Lu (**&**), J. Wu (**&**), J. Zhuang, A. Nandi, B. Hu, J. Buchanan, M.M. Takeno, R. Torres, G. Mahalingam, D.J. Bumbarger, Y. Li, T. Chartrand, N. Kemnitz, W.M. Silversmith, D. Ih, J. Zung, A. Zlateski, I. Tartavull, S. Popovych, W. Wong, M. Castro, C. S. Jordan, E. Froudarakis, L. Becker, S. Suckow, J. Reimer, A. S. Tolias, C. Anastassiou, H. S. Seung, R. C. Reid, N. M. da Costa. *Structure and function of axo-axonic inhibition*. eLife;10:e73783 (2021) [[Journal](https://elifesciences.org/articles/73783)]
 
 1. (**µ**) MICrONS Consortium *et al.*. *Functional connectomics spanning multiple areas of mouse visual cortex*. In revision, Nature. [[BioRxiv](https://www.biorxiv.org/content/10.1101/2021.07.28.454025v3)]
 
@@ -84,7 +86,7 @@ Postdoctoral researcher in the lab of Albert Cardona studying the neural basis o
 
 ### Additional Publications
 
-[*Projects where my contribution was more specific.*]{.small}
+[*Projects with a modulatory contribution.*]{.small}
 
 1. (**µ**) L Elabbady, S Seshamani, *et al.*..., F Collman. *Quantitative Census of Local Somatic Features in Mouse Visual Cortex*. In press, Nature. [[BioRxiv](https://www.biorxiv.org/content/10.1101/2022.07.20.499976v2)]
 
@@ -111,9 +113,9 @@ Postdoctoral researcher in the lab of Albert Cardona studying the neural basis o
 
 1. S. Dorkenwald, *et al.*..., M. Murthy, H.S. Seung. *FlyWire: Online community for whole-brain connectomics*. Nature Methods (2022). [[Journal](https://www.nature.com/articles/s41592-021-01330-0)]
 
-1. J. Buchanan, *et al.*..., N.M. da Costa. *Oligodendrocyte precursor cells prune axons in the mouse neocortex*. PNAS 119 (2022). [[Journal](https://www.pnas.org/doi/full/10.1073/pnas.2202580119)]
+1. (**µ**) J. Buchanan, *et al.*..., N.M. da Costa. *Oligodendrocyte precursor cells prune axons in the mouse neocortex*. PNAS 119 (2022). [[Journal](https://www.pnas.org/doi/full/10.1073/pnas.2202580119)]
 
-1. S. Dorkenwald, *et al.*...,  H.S. Seung. *Binary and analog variation of synapses between cortical pyramidal neurons*. eLife e76120. (2022). [[Journal](https://elifesciences.org/articles/76120)]
+1. (**µ**) S. Dorkenwald, *et al.*...,  H.S. Seung. *Binary and analog variation of synapses between cortical pyramidal neurons*. eLife e76120. (2022). [[Journal](https://elifesciences.org/articles/76120)]
 
 1. (**µ**) M A Weis, *et al.*..., A S Ecker. Large-scale unsupervised discovery of excitatory morphological cell types in mouse visual cortex. In revision. [[BioRxiv](https://www.biorxiv.org/content/10.1101/2022.12.22.521541v3)] 
 
