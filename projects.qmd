@@ -7,7 +7,8 @@ title: "Projects"
 Mammalian cortex is famously diverse, comprised of many different kinds of neurons with different shapes, genetics, and functional properties.
 However, one of the key reasons for different cell types to exist is to offer more kinds of interactions in the nervous system, both at the level of connectivity rules and chemical interactions like neurotransmitters or peptides.
 Synapse resolution mapping of neuronal morphology reflects these differences and a single millimeter-scale dataset can have almost 100,000 morphologies.
-Analysing these large populations helps discovery what cell types exist and how they interact, important factors in understanding the development and function of the brain. 
+Analysing these large populations helps discovery what cell types exist and how they interact, important factors in understanding the development and function of the brain.
+Currently, much of my work is in the Microns dataset, which you can browse at [Microns-Explorer](https://www.microns-explorer.org).
 
 ### Connectivity rules of inhibitory neurons
 
