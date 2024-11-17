@@ -1,0 +1,236 @@
+---
+title: Curriculum Vitae
+format:
+  html:
+    toc: true
+    toc-expand: true
+    toc-title: CV
+  pdf:
+    author: Casey Schneider-Mizell
+    pdf-engine: weasyprint
+    monofontoptions:
+      - font-size=7pt
+css: cv.css
+---
+
+::: {.print-only .contact-block}
+caseys@alleninstitute.org
+:::
+
+## Research Interests {.smaller}
+My research aims to develop a bottom-up understanding of the architecture of the brain through dense reconstructions of neuronal circuits at cellular and synaptic resolution using volume electron microscopy (EM). Building on my background in the physics of networks, I use quantitative methods and machine learning to address fundamental biological questions: What cell types exist? What rules govern how they interact? How do these observations constrain or suggest mechanisms for circuit function? As a committed advocate for open science, I also help curate large public EM datasets for use by the broader scientific community and build user-friendly, open-source computational tools that enable scientists to analyze and explore these rich datasets for their own research.
+
+## Positions
+
+**Scientist III (promotion to Assistant Investigator in progress)**
+<br>*Allen Institute for Brain Science* [*2018--Present*]{.cvdate}
+
+Discovering organizing principles of cortical connectivity and building computational infrastructure, proofreading and analysis tools for petascale electron microscopy volumes of the nervous system.
+
+**Research Specialist / Postdoc**
+<br>*Janelia Research Campus, HHMI* [*2012--2018*]{.cvdate}
+<br>*Institute of Neuroinformatics, ETH Zürich and University of Zürich* [*2010--2012*]{.cvdate}
+
+Postdoctoral researcher in the lab of Albert Cardona studying the neural basis of behavior the fruit fly larva.
+
+## Education
+**PhD, Physics**
+<br>*University of Michigan, Ann Arbor* [2004--2012]{.cvdate}
+
+* Advisor: Dr. Leonard Sander
+* Thesis: “Simple Processes in Complex Places” — Studying how network topology affects the dynamics of out-of-equilabrium stochastic processes.
+
+**BS, Mathematics and Physics**
+<br>*University of Washington, Seattle* [2000--2004]{.cvdate}
+
+* Mathematics & Physics (with honors), *magna cum laude*
+
+## Publications
+
+::: {.callout-note}
+### Co-lead authorships
+* **&**: indicates a multi-lead author contribution.
+* **µ**: indicates a MICrONs project. These papers include all individuals responsible for generating the structural data or analysis infrastructure prior to public availability. Complete author lists of MICrONs papers are truncated for clarity.
+:::
+
+### Highlighted Publications
+
+[*Projects where my contribution helped drive the overall work.*]{.small}
+
+1. (**µ**) C M Schneider-Mizell, *et al.*... , N M da Costa. *Cell-type-specific inhibitory circuitry from a connectomic census of mouse visual cortex.* In press, Nature. [[BioRxiv](https://www.biorxiv.org/content/10.1101/2023.01.23.525290v3)]
+
+1. S. Dorkenwald (**&**), C. M. Schneider-Mizell (**&**), D. Brittain, A. Halageri, C. Jordan, N. Kemnitz, M.A. Castro, W. Silversmith, J. Maitin-Shepard, J. Triodl, H. Pfister, V. Gillet, D. Xenes, J.A. Bae, A.L. Bodor, J. Buchanan, D. J. Bumbarger, L. Elabbady, Z. Jia, D. Kapner, S. Kinn, K. Lee, K. Li, R. Lu, T. Macrina, G. Mahalingam, E. Mitchell. S.S. Mondal, S. Mu, B. Nehoran, S. Popovych, M. Takeno, R. Torres, N. L. Turner, W. Wong, J. Wu, W. Yin, S. Yu, R.C. Reid, N. M. da Costa, H.S. Seung, F. Collman. *CAVE: Connectome Annotation Versioning Engine*. bioRxiv 2023.07. 26.550598 (2023). In press, Nature Methods. [[BioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.26.550598v1)]
+
+1. (**µ**) A L Bodor (**&**), C M Schneider-Mizell (**&**), ... N M da Costa. *The Synaptic Architecture of Layer 5 Thick Tufted Excitatory Neurons in the Visual Cortex of Mice*. In revision. [[BioRxiv](https://www.biorxiv.org/content/10.1101/2023.10.18.562531v1)]
+
+1. N. Turner (**&**), T. Macrina (**&**), J. Bae (**&**), R. Yang (**&**), A.M. Wilson (**&**), C.M. Schneider-Mizell (**&**), K. Lee (**&**), R. Lu (**&**), J. Wu (**&**), A. Bodor (**&**), A. Bleckert (**&**), D. Brittain (**&**), E. Froudarakis (**&**), S. Dorkenwald (**&**), F. Collman (**&**), N. Kemnitz (**&**), D. Ih, W. Silversmith, J. Zung, A. Zlateski, I. Tartavull, S. Yu, S. Popovych, S. Mu, W. Wong, C. Jordan, M. Castro, J. Buchanan, D. Bumbarger, M. Takeno, R. Torres, G. Mahalingam, L. Elabbady, Y. Li, E. Cobos, P. Zhou, S. Suchow, L. Becker, L. Paninski, F. Polleux, J. Reimer, A.S. Tolias, R.C. Reid, N.M. da Costa, H.S. Seung. *Reconstruction of neocortex: Organelles, compartments, cell, circuits, and activity*. Cell, 185 (6) (2022) [[Journal](https://www.sciencedirect.com/science/article/pii/S0092867422001349)]
+
+1. C. M. Schneider-Mizell (**&**), A. L. Bodor (**&**), F. Collman (**&**), D. Brittain (**&**), A.A. Bleckert (**&**), S. Dorkenwald (**&**), N.L. Turner (**&**), T. Macrina (**&**), K. Lee (**&**), R. Lu (**&**), J. Wu (**&**), J. Zhuang, A. Nandi, B. Hu, J. Buchanan, M.M. Takeno, R. Torres, G. Mahalingam, D.J. Bumbarger, Y. Li, T. Chartrand, N. Kemnitz, W.M. Silversmith, D. Ih, J. Zung, A. Zlateski, I. Tartavull, S. Popovych, W. Wong, M. Castro, C. S. Jordan, E. Froudarakis, L. Becker, S. Suckow, J. Reimer, A. S. Tolias, C. Anastassiou, H. S. Seung, R. C. Reid, N. M. da Costa. *Structure and function of axo-axonic inhibition*. eLife;10:e73783 (2021) [[Journal](https://elifesciences.org/articles/73783)]
+
+1. (**µ**) MICrONS Consortium *et al.*. *Functional connectomics spanning multiple areas of mouse visual cortex*. In revision, Nature. [[BioRxiv](https://www.biorxiv.org/content/10.1101/2021.07.28.454025v3)]
+
+1. S. Gerhard, I. Andrade, R.D. Fetter, A. Cardona, C.M. Schneider-Mizell. *Conserved neural circuit structure across Drosophila larva development revealed by comparative connectomics*. eLife:e29089 (2017) [[Journal](https://elifesciences.org/articles/29089)]
+
+1. T. Jovanic (**&**), C.M. Schneider-Mizell (**&**), M. Shao, J.-B.Masson, G. Denisov, R.D. Fetter, B.D. Mensh, J.W. Truman, A. Cardona, M. Zlatic. *Competitive disinhibition mediates behavioral choice and sequences in Drosophila*. Cell, 167 (2016) [[Journal](https://linkinghub.elsevier.com/retrieve/pii/S0092-8674(16)31242-9)]
+
+1. C.M. Schneider-Mizell (**&**), S. Gerhard (**&**), M. Longair, T. Kazimiers, L. Feng, M. Zwart, T. Ohyama, M. Zlatic, A. Champion, F. Midgley, R. Fetter, S. Saalfeld, A. Cardona. *Quantitative neuroanatomy for connectomics in Drosophila*. eLife:e12059 (2016) [[Journal](https://elifesciences.org/articles/12059)]
+
+1. T. Ohyama (**&**), C.M. Schneider-Mizell (**&**), R.D. Fetter, J.V. Aleman, R. Francoville, M. Rivera Alba, B.D. Mensch, K.M. Branson, J.H. Simpson, J.W. Truman, A. Cardona and M. Zlatic. *A multilevel multimodal circuit for action selection in Drosophila*, Nature, 520 (2015) [[Journal](https://www.nature.com/articles/nature14297)]
+
+1. C.M. Schneider-Mizell, J.M. Parent, E. Ben-Jacob, M.R. Zochowski, L.M. Sander. *From network structure to network reorganization: implications for adult neurogenesis*. Physical Biology, 7 (2010) [[Journal](https://iopscience.iop.org/article/10.1088/1478-3975/7/4/046008)]
+
+1. C.M. Schneider-Mizell and L.M. Sander. *A generalized voter model on complex networks*. Journal of Statistical Physics, 136 (2009). [[Journal](https://link.springer.com/article/10.1007/s10955-009-9757-6)]
+
+
+### Additional Publications
+
+[*Projects where my contribution was more specific.*]{.small}
+
+1. (**µ**) L Elabbady, S Seshamani, *et al.*..., F Collman. *Quantitative Census of Local Somatic Features in Mouse Visual Cortex*. In press, Nature. [[BioRxiv](https://www.biorxiv.org/content/10.1101/2022.07.20.499976v2)]
+
+1. Azevedo, A., Lesser, E., Phelps, J.S. *et al.*. *Connectomic reconstruction of a female Drosophila ventral nerve cord*. Nature (2024). [[Journal](https://doi.org/10.1038/s41586-024-07389-x)]
+
+1. Lesser, E., Azevedo, A.W., Phelps, J.S. *et al.*. *Synaptic architecture of leg and wing premotor control networks in Drosophila*. Nature (2024). 
+[[Journal](https://www.nature.com/articles/s41586-024-07600-z)]
+
+1. Dummer, P. D., Lee, D. I., Hossain, S., Wang, R., Evard, A., Newman, G., Ho, C., *Schneider-Mizell, C. M.*, Menon, V., & Au, E. *Multidimensional analysis of cortical interneuron synaptic features reveals underlying synaptic heterogeneity*. In revision. [[BioRxiv](https://www.biorxiv.org/content/10.1101/2024.03.22.586340v2)]
+
+1. D. R. Peale, H. Hess, P. R. Lee, A. Cardona, D.D. Bock, C. M. Schneider-Mizell, R. D. Fetter, W.–P. Lee, C. G. Robinson, N. Iyer, C. Managan. *iTome Volumetric Serial Sectioning Apparatus for TEM*. (2024) [[BioRxiv](https://www.biorxiv.org/content/10.1101/2024.07.02.601671v1.abstract)]
+
+1. S. Dorkenwald, P. Li, M. Januszzewski, D. R. Berger, J. Maitin-Shephard, A. L. Bodor, F. Collman, *C. M. Schneider-Mizell*, N. M. da Costa, J. W. Lichtman, V. Jain. *Multi-layered maps of neuropil with segmentation-guided contrastive learning*. Nature Methods (2023). [[Journal](https://www.nature.com/articles/s41592-023-02059-8)]
+
+1. S Dorkenwald, A Matsliah, A R Sterling, *et al..*, FlyWire Consortium. *Neuronal wiring diagram of an adult brain*. Nature, in press. [[BioRxiv](https://www.biorxiv.org/content/10.1101/2023.06.27.546656v2)]
+
+1. A Schoofs, A Miroschnikow, P Schlegel, I Zinke, C M Schneider-Mizell, A M Cardona, M J Pankratz. *Serotonergic reinforcement of a complete swallowing circuit*. (2023) In revision. [[Journal](https://www.biorxiv.org/content/10.1101/2023.05.26.542464v1.full)]
+
+1. (**µ**) C R Gamlin, C M Schneider-Mizell, M Mallory, *et al.*..., S A Sorensen. *Integrating EM and Patch-seq data: Synaptic connectivity and target specificity of predicted Sst transcriptomic types*. (2023) In revision. [[BioRxiv](https://www.biorxiv.org/content/10.1101/2023.03.22.533857v1.abstract)]
+
+1. (**µ**) B Celii, S Papadopoulos, Z Ding, *et al.*..., J Reimer. *NEURD: automated proofreading and feature extraction for connectomics*. (2023) In revision. [[BioRxiv](https://www.biorxiv.org/content/10.1101/2023.03.14.532674v3)]
+
+1. (**µ**) Z Ding, P G Fahey, S Papadopoulos, *et al.*..., A S Tolias. *Functional connectomics reveals general wiring rule in mouse visual cortex*.  (2023) In revision. [[BioRxiv](https://www.biorxiv.org/content/10.1101/2023.03.13.531369v2)]
+
+1. S. Dorkenwald, *et al.*..., M. Murthy, H.S. Seung. *FlyWire: Online community for whole-brain connectomics*. Nature Methods (2022). [[Journal](https://www.nature.com/articles/s41592-021-01330-0)]
+
+1. J. Buchanan, *et al.*..., N.M. da Costa. *Oligodendrocyte precursor cells prune axons in the mouse neocortex*. PNAS 119 (2022). [[Journal](https://www.pnas.org/doi/full/10.1073/pnas.2202580119)]
+
+1. S. Dorkenwald, *et al.*...,  H.S. Seung. *Binary and analog variation of synapses between cortical pyramidal neurons*. eLife e76120. (2022). [[Journal](https://elifesciences.org/articles/76120)]
+
+1. (**µ**) M A Weis, *et al.*..., A S Ecker. Large-scale unsupervised discovery of excitatory morphological cell types in mouse visual cortex. In revision. [[BioRxiv](https://www.biorxiv.org/content/10.1101/2022.12.22.521541v3)] 
+
+1. S. Seshamani, L. Elabbady, C. M. Schneider-Mizell, G. Mahalingam, S. Dorkenwald, A. L. Bodor, T. Macrina, D. Bumbarger, J. Buchanan, M. Takeno, W. Yin, D. Brittain, R. Torres, D. Kapner, R. Lu, J. Wu, N. M. da Costa, R.C. Reid, F. Collman. *Automated Neuron Shape Analysis from Electron Microscopy*. arXiv:2006.00100 (2020) [[arXiv](https://arxiv.org/abs/2006.00100)]
+
+1. C. Eschbach, A. Fushiki, M. Winding, C. M. Schneider-Mizell, M. Shao, R. Arruda, K. Eichler, J. Valdes-Aleman, T. Ohyama, A.S. Thum, B. Gerber, R.D. Fetter, J.W. Truman, A. Litwin-Kumar, A. Cardona, M. Zlatic. *Recurrent architecture for adaptive regulation of learning in the insect brain*. Nature Neuroscience, 23 (2020). [[Journal](https://www.nature.com/articles/s41593-020-0607-9)]
+
+1. I. Larderet, P. Fritsch, N. Gendre, L. Maier, R.D. Fetter, C.M. Schneider-Mizell, J. Truman, M. Zlatic, A. Cardona, S. Sprecher. *Organization of the Drosophila larva visual circuit*. eLife (2017) [[Journal](https://elifesciences.org/articles/28387)]
+
+1. K. Eichler, F. Li, A. Kumar, Y. Park, I. Andrade, C.M. Schneider-Mizell, T. Saumweber, A. Huser, D. Bonnery, B. Gerber, R.D. Fetter, J.W. Truman, C. Priebe, L.F. Abbott, A. Thum, M. Zlatic, A. Cardona. *The complete wiring diagram of a high-order learning and memory center, the insect mushroom body*. Nature (2017) [[Journal](https://www.nature.com/articles/nature23455)]
+
+1. P. Schlegel, M.J. Texada, A. Miroschnikow, M. Peters, C.M. Schneider-Mizell, H. Lacin, F. Li, R.D. Fetter, J. W. Truman, A. Cardona, M. J. Pankratz. *Synaptic transmission parallels neuromodulation in a central food-intake circuit*. eLife (2016) [[Journal](https://elifesciences.org/articles/16799)]
+
+1. E.S. Heckscher, A. A. Zarin, S. Faumont, M.Q. Clark, L. Manning, A. Fushiki, C.M. Schneider-Mizell, R.D. Fetter, J.W. Truman, M.F. Zwart, M. Landgraf, A. Cardona, S.R. Lockery, C.Q. Doe. *Even-skipped+ interneurons are core components of a sensorimotor circuit that maintains left-right symmetric muscle contraction amplitude*. Neuron, 88 (2015) [[Journal](https://www.cell.com/neuron/fulltext/S0896-6273(15)00766-7)]
+
+1. E. Khain, M.O. Nowicki, C.M. Schneider-Mizell, E.A. Chiocca, S.E. Lawler, and L.M. Sander. *Pattern formation in glioma cells: Effects of adhesion*. Europhysics Letters, 88 (2009) [[Journal](https://iopscience.iop.org/article/10.1209/0295-5075/88/28006/pdf)]
+
+1. S. Page, L.M. Sander, and C.M. Schneider-Mizell. *Conformity and dissonance in generalized voter models*. Journal of Statistical Physics (2007) [[Journal](https://link.springer.com/article/10.1007/s10955-007-9369-y)]
+
+1. E. Khain, L.M. Sander, and C.M. Schneider-Mizell. *The role of cell-cell adhesion in wound healing*. Journal of Statistical Physics (2007) [[Journal](https://link.springer.com/article/10.1007/s10955-006-9194-8)]
+
+## Talks, Conferences and Schools
+- Brain Mosaic, VIB Leuven, Belgium (T) [Oct 2024]{.cvdate}
+- Max Plank/HHMI Connectomics Meeting, Berlin, Germany (T) [June 2024]{.cvdate}
+- Capo Caccia Neuromorphic Engineering Workshop, Sardinia, Italy (T) [May 2024]{.cvdate}
+- Inhibition in the CNS, Gordon Research Conference (P) [July 2023]{.cvdate}
+- Max Plank/HHMI Connectomics Meeting, Berlin, Germany (T) [June 2022]{.cvdate}
+- Janelia Research Campus, Ashburn, VA (T) [May 2022]{.cvdate}
+- Japan Neuroscience Society (Virtual T) [June 2021]{.cvdate}
+- Society for Neuroscience, Chicago (P) [Nov 2019]{.cvdate}
+- Max Planck / HHMI Connectomics Conference, Berlin, Germany (T) [Apr 2019]{.cvdate}
+- Super 3DEM: A NeuroNex Workshop. Austin, TX (T) [Jul 2018]{.cvdate}
+- Flatiron Institute, New York, NY. (T) [Jan 2018]{.cvdate}
+- Neurobiology of Drosophila, Cold Spring Harbor, NY [Sep 2017]{.cvdate}
+- Kavli Workshop on Neural Circuits and Behavior in Drosophila, Kolymbari, Greece (T) [Jul 2017]{.cvdate}
+- SPiNES seminar, Dept. of Neuroscience, New York University (T) [Jun 2017]{.cvdate}
+- Max Planck/HHMI Connectomics Meeting, Berlin, Germany (P) [Apr 2017]{.cvdate}
+- Action Selection Across the Animal Kingdom, Janelia Research Campus (T) [Sep 2016]{.cvdate}
+- Champalimaud Neuroscience Symposium, Lisbon, Portugal (T) [Sep 2016]{.cvdate}
+- High-resolution Circuit Reconstruction, Janelia Research Campus (P) [Apr 2016]{.cvdate}
+- COSYNE 16 (P) [Feb 2016]{.cvdate}
+- Center for Brain Science, Harvard University (T) [Oct 2015]{.cvdate}
+- Complex Systems Seminar, Dept. of Bioengineering, U Penn (T) [Feb 2015]{.cvdate}
+- MiniBrains, ESF/EMBO. San Feliu, Spain (T) [Nov 2014]{.cvdate}
+- Max Planck/HHMI Connectomics Conference. Berlin, Germany (P) [Oct 2014]{.cvdate}
+- Behavioral Neurogenetics of Drosophila Larva. Atami, Japan (T) [Mar 2014]{.cvdate}
+- CSHL Meeting on Drosophila Neurobiology, Cold Spring Harbor, NY (P) [Oct 2013]{.cvdate}
+- CSHL Course on Drosophila Neurobiology, Cold Spring Harbor, NY (S) [Jun 2012]{.cvdate}
+- Behavioral Neurogenetics of Drosophila Larva, Janelia Research Campus (P) [Sep 2012]{.cvdate}
+- Neural Coding in Sensory Systems (FENS Winter School). Obergurgl, Austria. (S) [Jan 2009]{.cvdate}
+- American Physical Society March Meeting, Pittsburgh, PA (T) [Mar 2009]{.cvdate}
+- Workshop on Growth and Control of Tumors: Theory and Experiment. Fields Institute, University of Toronto, Canada. [Jul 2008]{.cvdate}
+- Quantitative Approaches to Cell Motility and Chemotaxis. University of Minnesota, MN. [May 2008]{.cvdate}
+- The Physics of Cellular Objects (I2CAM Summer School). Cargèse, France. (S) [Aug 2006]{.cvdate}
+
+## Teaching and Advising
+
+**Connectomics from Micro to Meso-Scale**
+<br>University of Bordeaux (CAJAL Training Program) [Sep-Oct 2023]{.cvdate}
+
+Co-organiser with Greg Jefferis, Jenny Kim, and Nicholas Renier of a three week course teaching 20 graduate students and postdocs brain mapping from light and EM levels. I put together the speaker list, lectured, and led student research projects.
+
+**Summer Workshop on the Dynamic Brain**
+<br>*Allen Institute & UW*
+[Sep 2023]{.cvdate}
+<br>[Sep 2019]{.cvdate}
+
+* Instructor for intensive school in data-driven neuroscience methods for graduate students and postdoctoral researchers.
+
+**Allen Institute Summer Internship Mentor**
+<br>[Jun-Aug 2021]{.cvdate}
+
+* Mentored an undergraduate student to measure distance-dependent connectivity of inhibitory neurons.
+
+**Physics Teaching**
+<br>*University of Michigan, Ann Arbor*
+
+* TA for an integrated lab/lecture experiential-learning course in basic physics for non-science students. [2010]{.cvdate}
+* TA for introductory physics labs in mechanics and electricity & magnetism 
+<br>[2004–-2005]{.cvdate}
+<br>[2008--2010]{.cvdate}
+
+**TA for Honors Advanced Calculus**
+<br>*University of Washington, Seattle*
+
+* TA for a small, accelerated first year math sequence for likely math majors covering calculus, ODEs, and linear algebra.
+<br>[2003--2004]{.cvdate}
+
+## Software Packages
+
+I have built, contributed to, and maintained several software packages for working with connectomics data. Some of those packages include:
+
+**NGLui**:
+: Rules-based conversion of dataframes to explorable Neuroglancer states used to visualize analysis and build interactive pipelines.  
+[[`https://caveconnectome.github.io/nglui/`](https://caveconnectome.github.io/nglui/)]
+
+**CAVEclient**:
+: Python Client for interacting with the connectomics analysis framework CAVE.  
+[[`https://caveconnectome.github.io/CAVEclient/`](https://caveconnectome.github.io/CAVEclient/)]
+
+**pcg_skel**:
+: Fast skeletonization of very large neurons using core data representation of CAVE, the PyChunkedGraph, to analyze and visualize neuronal morphology.  
+[[`https://github.com/AllenInstitute/pcg_skel`](https://caveconnectome.github.io/pcg_skel)]
+
+**MeshParty**:
+: Built methods for working with neuronal meshes, skeletons, and connectivity indivudally and jointly.  
+[[`https://github.com/CAVEconnectome/MeshParty`](https://github.com/CAVEconnectome/MeshParty)]
+
+**Dash Connectivity Viewer**: 
+: Web-based interface for interacting with connectomics analysis framework CAVE
+[[`https://github.com/CAVEconnectome/dash-connectivity-viewer`](https://github.com/CAVEconnectome/dash-connectivity-viewer)]
+
+## Service
+
+* eLife, Reviewing Editor [2024--Present]{.cvdate}
+* Allen Institute Next Generation Leaders Selection Committee [2021]{.cvdate}
+* Janelia Association of Research Scientists Vice Chair (grad student and postdoc affairs) [2015--2016]{.cvdate}
+* Co-chair, Complex Systems Advanced Academic Workshop, University of Michigan [2007–2008]{.cvdate}
+* Reviewed manuscripts for eLife and Cell.
+

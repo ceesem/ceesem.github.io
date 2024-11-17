@@ -1,0 +1,32 @@
+---
+title: "Casey Schneider-Mizell"
+toc: false
+about:
+  template: trestles
+  image-width: 15em
+  # image-shape: rounded
+  image: img/self_bw.jpeg
+  links:
+    - icon: github
+      text: personal
+      href: https://github.com/ceesem
+    - icon: github
+      text: CAVE
+      href: https://github.com/CAVEconnectome
+    - icon: send
+      text: email
+      href: mailto://caseys@alleninstitute.org
+---
+
+### Who am I?
+
+I'm a scientist, currently at the [Allen Institute for Brain Science](https://www.alleninstitute.org) in dim, damp Seattle, Washington.
+I like both finding out things about neurons and their connectivity as well as building computational tools to help others find things out too.
+
+### What do I do?
+
+The brain has a great many neurons, whether you are a fly, a fish, a human or whatnot.
+Maybe not a nematode, but then you probably aren't reading this website.
+Each neuron interacts with hundreds or thousands of other cells in a network of tremendous complexity.
+We still don't know the kinds of neurons that exist, the patterns of how they connect to one another, or how this anatomical structure helps produce the functional activity that lets brains do important things like see, think, remember or generate behavior.
+Using image volumes of the brain that capture nanoscopic features such as synapses at the scale of whole circuits, my work aims to build a bottom-up understanding of the landscape of the brain.

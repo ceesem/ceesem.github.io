@@ -1,0 +1,56 @@
+---
+title: "A bit about me"
+---
+
+### Current Position
+
+**Scientist III, Allen Institute for Brain Science, Seattle, WA**
+
+Building computational infrastructure and tools and leading data analysis projects for petascale electron microscopy volumes of the nervous system.
+
+### Previous roles
+
+* *2012–2018*: Research specialist (a.k.a. postdoc) with Albert Cardona at Janelia Research Campus, HHMI.
+* *2010–2012*: Postdoc with Albert Cardona, Institute of Neuroinformatics, ETH Zürich and University of Zürich
+
+### Education
+
+* *2004-2010*: Ph.D. in Physics, University of Michigan, Ann Arbor with Prof. Leonard Sander
+* *2000-2004*: B.S., University of Washington, Seattle in Mathematics & Physics (with honors)
+
+```{=html}
+<div style="width: 100%; overflow: hidden; height: 300px;">
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1zWws2WhWvOqJytgOtIXnv6ezbKQDv3I&ehbc=2E312F&noprof=1" width="100%" height="100%" style="position:relative; top:-65px; border:none;"></iframe>
+</div>
+```
+
+### Selected Publications
+
+(For a full list of publications, see my [Google Scholar](https://scholar.google.com/citations?hl=en&tzom=-60&user=RPE2WtMAAAAJ) profile)
+
+1. (**µ**) C M Schneider-Mizell, *et alia*... , N M da Costa. *Cell-type-specific inhibitory circuitry from a connectomic census of mouse visual cortex.* In press, Nature. [[BioRxiv](https://www.biorxiv.org/content/10.1101/2023.01.23.525290v3)]
+
+1. S. Dorkenwald (**&**), C. M. Schneider-Mizell (**&**), D. Brittain, A. Halageri, C. Jordan, N. Kemnitz, M.A. Castro, W. Silversmith, J. Maitin-Shepard, J. Triodl, H. Pfister, V. Gillet, D. Xenes, J.A. Bae, A.L. Bodor, J. Buchanan, D. J. Bumbarger, L. Elabbady, Z. Jia, D. Kapner, S. Kinn, K. Lee, K. Li, R. Lu, T. Macrina, G. Mahalingam, E. Mitchell. S.S. Mondal, S. Mu, B. Nehoran, S. Popovych, M. Takeno, R. Torres, N. L. Turner, W. Wong, J. Wu, W. Yin, S. Yu, R.C. Reid, N. M. da Costa, H.S. Seung, F. Collman. *CAVE: Connectome Annotation Versioning Engine*. bioRxiv 2023.07. 26.550598 (2023). In press, Nature Methods. [[BioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.26.550598v1)]
+
+1. (**µ**) A L Bodor (**&**), C M Schneider-Mizell (**&**), ... N M da Costa. *The Synaptic Architecture of Layer 5 Thick Tufted Excitatory Neurons in the Visual Cortex of Mice*. In revision. [[BioRxiv](https://www.biorxiv.org/content/10.1101/2023.10.18.562531v1)]
+
+1. N. Turner (**&**), T. Macrina (**&**), J. Bae (**&**), R. Yang (**&**), A.M. Wilson (**&**), C.M. Schneider-Mizell (**&**), K. Lee (**&**), R. Lu (**&**), J. Wu (**&**), A. Bodor (**&**), A. Bleckert (**&**), D. Brittain (**&**), E. Froudarakis (**&**), S. Dorkenwald (**&**), F. Collman (**&**), N. Kemnitz (**&**), D. Ih, W. Silversmith, J. Zung, A. Zlateski, I. Tartavull, S. Yu, S. Popovych, S. Mu, W. Wong, C. Jordan, M. Castro, J. Buchanan, D. Bumbarger, M. Takeno, R. Torres, G. Mahalingam, L. Elabbady, Y. Li, E. Cobos, P. Zhou, S. Suchow, L. Becker, L. Paninski, F. Polleux, J. Reimer, A.S. Tolias, R.C. Reid, N.M. da Costa, H.S. Seung. *Reconstruction of neocortex: Organelles, compartments, cell, circuits, and activity*. Cell, 185 (6) (2022) [[Journal](https://www.sciencedirect.com/science/article/pii/S0092867422001349)]
+
+1. C. M. Schneider-Mizell (**&**), A. L. Bodor (**&**), F. Collman (**&**), D. Brittain (**&**), A.A. Bleckert (**&**), S. Dorkenwald (**&**), N.L. Turner (**&**), T. Macrina (**&**), K. Lee (**&**), R. Lu (**&**), J. Wu (**&**), J. Zhuang, A. Nandi, B. Hu, J. Buchanan, M.M. Takeno, R. Torres, G. Mahalingam, D.J. Bumbarger, Y. Li, T. Chartrand, N. Kemnitz, W.M. Silversmith, D. Ih, J. Zung, A. Zlateski, I. Tartavull, S. Popovych, W. Wong, M. Castro, C. S. Jordan, E. Froudarakis, L. Becker, S. Suckow, J. Reimer, A. S. Tolias, C. Anastassiou, H. S. Seung, R. C. Reid, N. M. da Costa. *Structure and function of axo-axonic inhibition*. eLife;10:e73783 (2021) [[Journal](https://elifesciences.org/articles/73783)]
+
+1. (**µ**) MICrONS Consortium *et alia*. *Functional connectomics spanning multiple areas of mouse visual cortex*. In revision, Nature. [[BioRxiv](https://www.biorxiv.org/content/10.1101/2021.07.28.454025v3)]
+
+1. S. Gerhard, I. Andrade, R.D. Fetter, A. Cardona, C.M. Schneider-Mizell. *Conserved neural circuit structure across Drosophila larva development revealed by comparative connectomics*. eLife:e29089 (2017) [[Journal](https://elifesciences.org/articles/29089)]
+
+1. T. Jovanic (**&**), C.M. Schneider-Mizell (**&**), M. Shao, J.-B.Masson, G. Denisov, R.D. Fetter, B.D. Mensh, J.W. Truman, A. Cardona, M. Zlatic. *Competitive disinhibition mediates behavioral choice and sequences in Drosophila*. Cell, 167 (2016) [[Journal](https://linkinghub.elsevier.com/retrieve/pii/S0092-8674(16)31242-9)]
+
+1. C.M. Schneider-Mizell (**&**), S. Gerhard (**&**), M. Longair, T. Kazimiers, L. Feng, M. Zwart, T. Ohyama, M. Zlatic, A. Champion, F. Midgley, R. Fetter, S. Saalfeld, A. Cardona. *Quantitative neuroanatomy for connectomics in Drosophila*. eLife:e12059 (2016) [[Journal](https://elifesciences.org/articles/12059)]
+
+1. T. Ohyama (**&**), C.M. Schneider-Mizell (**&**), R.D. Fetter, J.V. Aleman, R. Francoville, M. Rivera Alba, B.D. Mensch, K.M. Branson, J.H. Simpson, J.W. Truman, A. Cardona and M. Zlatic. *A multilevel multimodal circuit for action selection in Drosophila*, Nature, 520 (2015) [[Journal](https://www.nature.com/articles/nature14297)]
+
+
+### Full CV
+
+Please find a full CV here. *[Last updated Sept 2024]*
+
+

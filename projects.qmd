@@ -1,0 +1,33 @@
+---
+title: "Projects"
+---
+
+### Data-driven-discovery of the organization of the brain
+
+Mammalian cortex is famously diverse, comprised of many different kinds of neurons with different shapes, genetics, and functional properties.
+However, one of the key reasons for different cell types to exist is to offer more kinds of interactions in the nervous system, both at the level of connectivity rules and chemical interactions like neurotransmitters or peptides.
+Synapse resolution mapping of neuronal morphology reflects these differences and a single millimeter-scale dataset can have almost 100,000 morphologies.
+Analysing these large populations helps discovery what cell types exist and how they interact, important factors in understanding the development and function of the brain. 
+
+### Connectivity rules of inhibitory neurons
+
+While only a small fraction of cortical neurons are inhibitory, they have at least as much diversity as excitatory neurons (at least within a given cortical area). 
+Different inhibitory cell types differ in not only what types of cells they interact with, but exactly how they distribute synapses across the arbors of target neurons.
+This line of work aims to understand the contribution of different factors in building up inhibitory connectivity --- including cell types, morphology, space, and function --- and link it to circuit function.
+
+### Scalable methods for working with large-scale connectomics data
+
+Dense structural data is a bit odd compared to a lot of what we're used to analyzing. It's static, but highly multimodal, and much larger than one can hold outside of the cloud.
+Image volumes depict all cells with rich detail, including not only their shape but features like mitochondria, nuclei, synaptic vesicles, microtubules, and a number of more exotic structures like multivesicular bodies.
+Cells, synapses, and more are segmented, producing not only volumetric representations of morphology but also meshes, skeletons, and synaptic connectivity.
+On top of that, the structural data changes over time as segmentations get better through manual and, increasingly,
+automated proofreading.
+CAVE (The Connectome Annotation Versioning Engine) is a cloud-based system for organizing this data in a centralized manner to be studied by a scientific community, uploading and querying arbitrary kinds of annotations, and tracking the data reproducibly across proofreading edits.
+
+### Improving the analysis toolkit for connectomics
+
+Connectomics data is surprisingly multimodal.
+Neurons have shape, volume, ultrastructure, network connectivity, and exist in a common spatial environment.
+Making matters even more complicated, automated segmentation methods are imperfect and high-quality data can be intermingled with errors.
+Connectomics data will have the most impact when it's usable not only be specialists, but to complement diverse studies by scientists from across the spectrum of biology and computational methods.
+Building powerful tools from web sites to python libraries to enable rich analysis by anyone — the same tools I would use for my own work — is an important goal for the new world of open science.
