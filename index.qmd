@@ -18,7 +18,7 @@ about:
       href: mailto://caseys@alleninstitute.org
     - icon: cloud-sun
       text: bluesky
-      href: https://bsky.app/profile/csdashm.bsky.social
+      href: https://bsky.app/profile/csdashm.com
 ---
 
 ### Who am I?
