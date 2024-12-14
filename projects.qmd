@@ -33,7 +33,7 @@ Making matters even more complicated, automated segmentation methods are imperfe
 Connectomics data will have the most impact when it's usable not only be specialists, but to complement diverse studies by scientists from across the spectrum of biology and computational methods.
 Building powerful tools from web sites to python libraries to enable rich analysis by anyone — the same tools I would use for my own work — is an important goal for the new world of open science.
 
-### Circuits for behavioral choice in the Drosophila larva.
+### Circuits for behavioral choice in the Drosophila larva
 
 In order for an animal to produce behaviors amid ever-changing circumstances, a whole suite of computations is
 constantly occurying.

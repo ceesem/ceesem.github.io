@@ -24,16 +24,22 @@ My research aims to develop a bottom-up understanding of the architecture of the
 
 ## Positions
 
-**Scientist III (promotion to Assistant Investigator in progress)**
-<br>*Allen Institute for Brain Science* [*2018--Present*]{.cvdate}
+**Allen Institute for Brain Science, Seattle, WA**
+<br>*Assistant Investigator* [2025--]{.cvdate}
+<br>*Scientist III* [2022--2025]{.cvdate}
+<br>*Scientist II* [2018--2022]{.cvdate}
 
 Discovering organizing principles of cortical connectivity and building computational infrastructure, proofreading and analysis tools for petascale electron microscopy volumes of the nervous system.
 
-**Research Specialist / Postdoc**
-<br>*Janelia Research Campus, HHMI* [*2012--2018*]{.cvdate}
-<br>*Institute of Neuroinformatics, ETH Zürich and University of Zürich* [*2010--2012*]{.cvdate}
+**HHMI Janelia Research Campus, Ashburn, VA**
+<br>*Research Specialist* [*2012--2018*]{.cvdate}
 
-Postdoctoral researcher in the lab of Albert Cardona studying the neural basis of behavior the fruit fly larva.
+Continuing to work as a postdoc on the neural basis of behavior in the fly larva in the Cardona lab, in close collaboration with Dr. Marta Zlatic. 
+
+**Institute of Neuroinformatics, ETH Zürich and University of Zürich, Switzerland**
+<br>*Postdoctoral Researcher* [*2010--2012*]{.cvdate}
+
+Working in the lab of Dr. Albert Cardona studying the neural basis of behavior in the fly larva.
 
 ## Education
 **PhD, Physics**

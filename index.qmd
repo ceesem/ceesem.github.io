@@ -15,7 +15,7 @@ about:
       href: https://github.com/CAVEconnectome
     - icon: send
       text: email
-      href: mailto://caseys@alleninstitute.org
+      href: mailto:caseys@alleninstitute.org
     - icon: cloud-sun
       text: bluesky
       href: https://bsky.app/profile/csdashm.com
