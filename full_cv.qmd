@@ -15,8 +15,8 @@ css: cv.css
 
 ::: {.print-only .contact-block}
 Email: caseys@alleninstitute.org\
-Web: https://www.csdashm.org\
-Bluesky: @csdashm.bsky.social
+Web: https://www.csdashm.com\
+Bluesky: @csdashm.com
 :::
 
 ## Research Interests {.smaller}
@@ -233,6 +233,10 @@ I have built, contributed to, and maintained several software packages for worki
 **Dash Connectivity Viewer**: 
 : Web-based interface for interacting with connectomics analysis framework CAVE
 [[`https://github.com/CAVEconnectome/dash-connectivity-viewer`](https://github.com/CAVEconnectome/dash-connectivity-viewer)]
+
+**Guidebook**
+: Web-based tool for exploring neuroanatomy and guiding proofreading.
+[[`https://github.com/CAVEconnectome/guidebook`](https://github.com/CAVEconnectome/guidebook)]
 
 ## Service
 
