@@ -23,7 +23,7 @@ about:
 
 ### Who am I?
 
-I'm a scientist, currently at the [Allen Institute for Brain Science](https://www.alleninstitute.org) in dim, damp Seattle, Washington.
+I'm an Assistant Investigator at the [Allen Institute for Brain Science](https://www.alleninstitute.org) in dim, damp and lovely Seattle, Washington.
 I like both finding out things about neurons and their connectivity as well as building computational tools to help others find things out too.
 
 ### What do I do?
