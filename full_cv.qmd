@@ -65,17 +65,17 @@ Working in the lab of Dr. Albert Cardona studying the neural basis of behavior i
 
 [*Projects with a driving contribution.*]{.small}
 
-1. (**µ**) **C.M. Schneider-Mizell**, *et al.*... , N.M. da Costa. *Cell-type-specific inhibitory circuitry from a connectomic census of mouse visual cortex.* Nature, in press. [[BioRxiv](https://www.biorxiv.org/content/10.1101/2023.01.23.525290v3)]
+1. (**µ**) **C.M. Schneider-Mizell**, *et al.*... , N.M. da Costa. *Inhibitory specificity from a connectomic census of mouse visual cortex* Nature, 640 (2025). [[Journal](https://www.nature.com/articles/s41586-024-07780-8)]
 
-2. (**µ**) S. Dorkenwald (**&**), **C. M. Schneider-Mizell** (**&**), D. Brittain, A. Halageri, C. Jordan, N. Kemnitz, M.A. Castro, W. Silversmith, J. Maitin-Shepard, J. Triodl, H. Pfister, V. Gillet, D. Xenes, J.A. Bae, A.L. Bodor, J. Buchanan, D. J. Bumbarger, L. Elabbady, Z. Jia, D. Kapner, S. Kinn, K. Lee, K. Li, R. Lu, T. Macrina, G. Mahalingam, E. Mitchell. S.S. Mondal, S. Mu, B. Nehoran, S. Popovych, M. Takeno, R. Torres, N. L. Turner, W. Wong, J. Wu, W. Yin, S. Yu, R.C. Reid, N. M. da Costa, H.S. Seung, F. Collman. *CAVE: Connectome Annotation Versioning Engine*. bioRxiv 2023.07. 26.550598 (2023). Nature Methods, in press. [[BioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.26.550598v1)]
+2. (**µ**) S. Dorkenwald (**&**), **C. M. Schneider-Mizell** (**&**), D. Brittain, A. Halageri, C. Jordan, N. Kemnitz, M.A. Castro, W. Silversmith, J. Maitin-Shepard, J. Triodl, H. Pfister, V. Gillet, D. Xenes, J.A. Bae, A.L. Bodor, J. Buchanan, D. J. Bumbarger, L. Elabbady, Z. Jia, D. Kapner, S. Kinn, K. Lee, K. Li, R. Lu, T. Macrina, G. Mahalingam, E. Mitchell. S.S. Mondal, S. Mu, B. Nehoran, S. Popovych, M. Takeno, R. Torres, N. L. Turner, W. Wong, J. Wu, W. Yin, S. Yu, R.C. Reid, N. M. da Costa, H.S. Seung, F. Collman. *CAVE: Connectome Annotation Versioning Engine*. bioRxiv 2023.07. 26.550598 (2023). Nature Methods, 22 (2025). [[Journal](https://www.nature.com/articles/s41592-024-02426-z)]
 
 3. (**µ**) A L Bodor (**&**), **C M Schneider-Mizell** (**&**), ... N M da Costa. *The Synaptic Architecture of Layer 5 Thick Tufted Excitatory Neurons in the Visual Cortex of Mice*. Nature Neuroscience, in press. [[BioRxiv](https://www.biorxiv.org/content/10.1101/2023.10.18.562531v1)]
 
-4. (**µ**) N. Turner (**&**), T. Macrina (**&**), J. Bae (**&**), R. Yang (**&**), A.M. Wilson (**&**), **C.M. Schneider-Mizell** (**&**), K. Lee (**&**), R. Lu (**&**), J. Wu (**&**), A. Bodor (**&**), A. Bleckert (**&**), D. Brittain (**&**), E. Froudarakis (**&**), S. Dorkenwald (**&**), F. Collman (**&**), N. Kemnitz (**&**), D. Ih, W. Silversmith, J. Zung, A. Zlateski, I. Tartavull, S. Yu, S. Popovych, S. Mu, W. Wong, C. Jordan, M. Castro, J. Buchanan, D. Bumbarger, M. Takeno, R. Torres, G. Mahalingam, L. Elabbady, Y. Li, E. Cobos, P. Zhou, S. Suchow, L. Becker, L. Paninski, F. Polleux, J. Reimer, A.S. Tolias, R.C. Reid, N.M. da Costa, H.S. Seung. *Reconstruction of neocortex: Organelles, compartments, cell, circuits, and activity*. Cell, 185 (6) (2022) [[Journal](https://www.sciencedirect.com/science/article/pii/S0092867422001349)]
+4. (**µ**) MICrONS Consortium *et al.*. *Functional connectomics spanning multiple areas of mouse visual cortex*. Nature, 640 (2025). [[Journal](https://www.nature.com/articles/s41586-025-08790-w)]
 
-5. (**µ**) **C. M. Schneider-Mizell** (**&**), A. L. Bodor (**&**), F. Collman (**&**), D. Brittain (**&**), A.A. Bleckert (**&**), S. Dorkenwald (**&**), N.L. Turner (**&**), T. Macrina (**&**), K. Lee (**&**), R. Lu (**&**), J. Wu (**&**), J. Zhuang, A. Nandi, B. Hu, J. Buchanan, M.M. Takeno, R. Torres, G. Mahalingam, D.J. Bumbarger, Y. Li, T. Chartrand, N. Kemnitz, W.M. Silversmith, D. Ih, J. Zung, A. Zlateski, I. Tartavull, S. Popovych, W. Wong, M. Castro, C. S. Jordan, E. Froudarakis, L. Becker, S. Suckow, J. Reimer, A. S. Tolias, C. Anastassiou, H. S. Seung, R. C. Reid, N. M. da Costa. *Structure and function of axo-axonic inhibition*. eLife;10:e73783 (2021) [[Journal](https://elifesciences.org/articles/73783)]
+5. (**µ**) N. Turner (**&**), T. Macrina (**&**), J. Bae (**&**), R. Yang (**&**), A.M. Wilson (**&**), **C.M. Schneider-Mizell** (**&**), K. Lee (**&**), R. Lu (**&**), J. Wu (**&**), A. Bodor (**&**), A. Bleckert (**&**), D. Brittain (**&**), E. Froudarakis (**&**), S. Dorkenwald (**&**), F. Collman (**&**), N. Kemnitz (**&**), D. Ih, W. Silversmith, J. Zung, A. Zlateski, I. Tartavull, S. Yu, S. Popovych, S. Mu, W. Wong, C. Jordan, M. Castro, J. Buchanan, D. Bumbarger, M. Takeno, R. Torres, G. Mahalingam, L. Elabbady, Y. Li, E. Cobos, P. Zhou, S. Suchow, L. Becker, L. Paninski, F. Polleux, J. Reimer, A.S. Tolias, R.C. Reid, N.M. da Costa, H.S. Seung. *Reconstruction of neocortex: Organelles, compartments, cell, circuits, and activity*. Cell, 185 (6) (2022) [[Journal](https://www.sciencedirect.com/science/article/pii/S0092867422001349)]
 
-6. (**µ**) MICrONS Consortium *et al.*. *Functional connectomics spanning multiple areas of mouse visual cortex*. Nature, in press. [[BioRxiv](https://www.biorxiv.org/content/10.1101/2021.07.28.454025v3)]
+6. (**µ**) **C. M. Schneider-Mizell** (**&**), A. L. Bodor (**&**), F. Collman (**&**), D. Brittain (**&**), A.A. Bleckert (**&**), S. Dorkenwald (**&**), N.L. Turner (**&**), T. Macrina (**&**), K. Lee (**&**), R. Lu (**&**), J. Wu (**&**), J. Zhuang, A. Nandi, B. Hu, J. Buchanan, M.M. Takeno, R. Torres, G. Mahalingam, D.J. Bumbarger, Y. Li, T. Chartrand, N. Kemnitz, W.M. Silversmith, D. Ih, J. Zung, A. Zlateski, I. Tartavull, S. Popovych, W. Wong, M. Castro, C. S. Jordan, E. Froudarakis, L. Becker, S. Suckow, J. Reimer, A. S. Tolias, C. Anastassiou, H. S. Seung, R. C. Reid, N. M. da Costa. *Structure and function of axo-axonic inhibition*. eLife;10:e73783 (2021) [[Journal](https://elifesciences.org/articles/73783)]
 
 7. S. Gerhard, I. Andrade, R.D. Fetter, A. Cardona, **C.M. Schneider-Mizell**. *Conserved neural circuit structure across Drosophila larva development revealed by comparative connectomics*. eLife:e29089 (2017) [[Journal](https://elifesciences.org/articles/29089)]
 
@@ -94,7 +94,7 @@ Working in the lab of Dr. Albert Cardona studying the neural basis of behavior i
 
 [*Projects with a modulatory contribution.*]{.small}
 
-1. (**µ**) L Elabbady, S Seshamani, *et al.*..., F Collman. *Quantitative Census of Local Somatic Features in Mouse Visual Cortex*. Nature, in press. [[BioRxiv](https://www.biorxiv.org/content/10.1101/2022.07.20.499976v2)]
+1. (**µ**) L Elabbady, S Seshamani, *et al.*..., F Collman. *Perisomatic ultrastructure efficiently classifies cells in mouse cortex*. Nature 640 (2025). [[Journal](https://www.nature.com/articles/s41586-024-07765-7)]
 
 2. Azevedo, A., Lesser, E., Phelps, J.S. *et al.*. *Connectomic reconstruction of a female Drosophila ventral nerve cord*. Nature (2024). [[Journal](https://doi.org/10.1038/s41586-024-07389-x)]
 
@@ -144,6 +144,7 @@ Working in the lab of Dr. Albert Cardona studying the neural basis of behavior i
 21. E. Khain, L.M. Sander, and **C.M. Schneider-Mizell**. *The role of cell-cell adhesion in wound healing*. Journal of Statistical Physics (2007) [[Journal](https://link.springer.com/article/10.1007/s10955-006-9194-8)]
 
 ## Talks, Conferences and Schools
+- Analysis and Modeling of Connectomes (T) [June 2025]{.cvdate}
 - Brain Mosaic, VIB Leuven, Belgium (T) [Oct 2024]{.cvdate}
 - Max Plank/HHMI Connectomics Meeting, Berlin, Germany (T) [June 2024]{.cvdate}
 - Capo Caccia Neuromorphic Engineering Workshop, Sardinia, Italy (T) [May 2024]{.cvdate}
@@ -178,6 +179,11 @@ Working in the lab of Dr. Albert Cardona studying the neural basis of behavior i
 - The Physics of Cellular Objects (I2CAM Summer School). Cargèse, France. (S) [Aug 2006]{.cvdate}
 
 ## Teaching and Advising
+
+**Virtual Observatory of the Cortex (Vortex)**
+<br>*Allen Institute</br>
+
+Advising and overseeing data curation and public release of MICrONs data.
 
 **Connectomics from Micro to Meso-Scale**
 <br>University of Bordeaux (CAJAL Training Program) [Sep-Oct 2023]{.cvdate}
@@ -234,15 +240,21 @@ I have built, contributed to, and maintained several software packages for worki
 : Web-based interface for interacting with connectomics analysis framework CAVE
 [[`https://github.com/CAVEconnectome/dash-connectivity-viewer`](https://github.com/CAVEconnectome/dash-connectivity-viewer)]
 
+**Tourguide**
+: Web-based tool for exploring neuroanatomy and guiding proofreading (replacing Guidebook)
+[[https://github.com/CAVEconnectome/Tourguide](https://github.com/CAVEconnectome/Tourguide)]
+
+
 **Guidebook**
-: Web-based tool for exploring neuroanatomy and guiding proofreading.
+: Web-based tool for exploring neuroanatomy and guiding proofreading (replaced by Tourguide)
 [[`https://github.com/CAVEconnectome/guidebook`](https://github.com/CAVEconnectome/guidebook)]
+
 
 ## Service
 
+* Reviewed manuscripts for eLife and Cell. Expert reviewer for Wellcome Trust
 * eLife, Reviewing Editor [2024--Present]{.cvdate}
 * Allen Institute Next Generation Leaders Selection Committee [2021]{.cvdate}
 * Janelia Association of Research Scientists Vice Chair (grad student and postdoc affairs) [2015--2016]{.cvdate}
 * Co-chair, Complex Systems Advanced Academic Workshop, University of Michigan [2007–2008]{.cvdate}
-* Reviewed manuscripts for eLife and Cell.
 
