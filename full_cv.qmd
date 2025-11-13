@@ -252,9 +252,9 @@ I have built, contributed to, and maintained several software packages for worki
 
 ## Service
 
-* Reviewed manuscripts for eLife and Cell. Expert reviewer for Wellcome Trust
+* Reviewed manuscripts: Cell, eLife, Nature Communications, Network Neuroscience, iScience.
 * eLife, Reviewing Editor [2024--Present]{.cvdate}
-* Allen Institute Next Generation Leaders Selection Committee [2021]{.cvdate}
+* Allen Institute Next Generation Leaders Selection Committee [2021, 2025]{.cvdate}
 * Janelia Association of Research Scientists Vice Chair (grad student and postdoc affairs) [2015--2016]{.cvdate}
 * Co-chair, Complex Systems Advanced Academic Workshop, University of Michigan [2007–2008]{.cvdate}
 
