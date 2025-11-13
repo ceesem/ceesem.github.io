@@ -1,1 +1,1 @@
-Sitemap: https://echo "csdashm.com" > CNAME/sitemap.xml
+Sitemap: https://csdashm.com/sitemap.xml
