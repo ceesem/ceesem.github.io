@@ -7,6 +7,10 @@ format:
     toc-title: CV
   pdf:
     author: Casey Schneider-Mizell
+    documentclass: article
+    geometry: margin=1in
+    mainfont: "Source Serif Pro"
+    sansfont: "Source Sans Pro"
     pdf-engine: weasyprint
     monofontoptions:
       - font-size=7pt
@@ -24,34 +28,30 @@ My research aims to develop a bottom-up understanding of the architecture of the
 
 ## Positions
 
-**Allen Institute for Brain Science, Seattle, WA**
-<br>*Assistant Investigator* [2025--]{.cvdate}
-<br>*Scientist III* [2022--2025]{.cvdate}
-<br>*Scientist II* [2018--2022]{.cvdate}
+Assistant Investigator, Allen Institute for Brain Science, Seattle, WA
+: <span class="cvdate">2025--Present</span>
+: *Previously* Scientist III (2022--2025) and Scientist II (2018--2022).
+: Computational research on the organizing principles of cortical connectivity.
+: Developing computational infrastructure, proofreading and analysis tools for petascale electron microscopy volumes of the nervous system.
 
-Discovering organizing principles of cortical connectivity and building computational infrastructure, proofreading and analysis tools for petascale electron microscopy volumes of the nervous system.
+Research Specialist, HHMI Janelia Research Campus, Ashburn, VA
+: [2012--2018]{.cvdate}
+: Postdoctoral research on the neural basis of behavior in the fly larva in the Cardona lab, in close collaboration with Dr. Marta Zlatic.
 
-**HHMI Janelia Research Campus, Ashburn, VA**
-<br>*Research Specialist* [*2012--2018*]{.cvdate}
-
-Continuing to work as a postdoc on the neural basis of behavior in the fly larva in the Cardona lab, in close collaboration with Dr. Marta Zlatic. 
-
-**Institute of Neuroinformatics, ETH Zürich and University of Zürich, Switzerland**
-<br>*Postdoctoral Researcher* [*2010--2012*]{.cvdate}
-
-Working in the lab of Dr. Albert Cardona studying the neural basis of behavior in the fly larva.
+Postdoctoral Researcher, Institute of Neuroinformatics, ETH Zürich and University of Zürich, Switzerland
+: [2010--2012]{.cvdate}
+: Postdoctoral research with Dr. Albert Cardona studying the neural basis of behavior in the fly larva.
 
 ## Education
-**PhD, Physics**
-<br>*University of Michigan, Ann Arbor* [2004--2012]{.cvdate}
 
-* Advisor: Dr. Leonard Sander
-* Thesis: “Simple Processes in Complex Places” — Studying how network topology affects the dynamics of out-of-equilabrium stochastic processes.
+PhD, Physics, University of Michigan, Ann Arbor
+: [2004--2010]{.cvdate}
+: Advisor: Dr. Leonard Sander
+: Thesis: "Simple Processes in Complex Places" — Studying how network topology affects the dynamics of out-of-equilibrium stochastic processes.
 
-**BS, Mathematics and Physics**
-<br>*University of Washington, Seattle* [2000--2004]{.cvdate}
-
-* Mathematics & Physics (with honors), *magna cum laude*
+BS, Mathematics and Physics (with honors), University of Washington, Seattle
+: [2000--2004]{.cvdate}
+: *Magna cum laude*
 
 ## Publications
 
@@ -184,12 +184,12 @@ Working in the lab of Dr. Albert Cardona studying the neural basis of behavior i
 **Virtual Observatory of the Cortex (Vortex)**
 <br>*Allen Institute</br>
 
-Advising and overseeing data curation and public release of MICrONs data.
+* Advising and overseeing data curation and public release of MICrONs data at https://www.microns-explorer.org and https://tutorial.microns-explorer.org.
 
 **Connectomics from Micro to Meso-Scale**
 <br>University of Bordeaux (CAJAL Training Program) [Sep-Oct 2023]{.cvdate}
 
-Co-organiser with Greg Jefferis, Jenny Kim, and Nicholas Renier of a three week course teaching 20 graduate students and postdocs brain mapping from light and EM levels. I put together the speaker list, lectured, and led student research projects.
+* Co-organiser with Greg Jefferis, Jenny Kim, and Nicholas Renier of a three week course teaching 20 graduate students and postdocs brain mapping from light and EM levels. I put together the speaker list, lectured, and led student research projects.
 
 **Summer Workshop on the Dynamic Brain**
 <br>*Allen Institute & UW*
@@ -206,16 +206,16 @@ Co-organiser with Greg Jefferis, Jenny Kim, and Nicholas Renier of a three week 
 **Physics Teaching**
 <br>*University of Michigan, Ann Arbor*
 
-* TA for an integrated lab/lecture experiential-learning course in basic physics for non-science students. [2010]{.cvdate}
+* TA for an integrated lab/lecture experiential-learning course in basic physics for non-science students
+<br> [2010]{.cvdate}
 * TA for introductory physics labs in mechanics and electricity & magnetism 
 <br>[2004–-2005]{.cvdate}
 <br>[2008--2010]{.cvdate}
 
 **TA for Honors Advanced Calculus**
-<br>*University of Washington, Seattle*
+<br>*University of Washington, Seattle* [2003--2004]{.cvdate}
 
 * TA for a small, accelerated first year math sequence for likely math majors covering calculus, ODEs, and linear algebra.
-<br>[2003--2004]{.cvdate}
 
 ## Software Packages
 
@@ -235,20 +235,19 @@ I have built, contributed to, and maintained several software packages for worki
 
 **MeshParty**:
 : Built methods for working with neuronal meshes, skeletons, and connectivity indivudally and jointly.  
-[[`https://github.com/CAVEconnectome/MeshParty`](https://github.com/CAVEconnectome/MeshParty)]
+[[`https://github.com/CAVEconnectome/MeshParty`](github:CAVEconnectome/MeshParty)]
 
 **Dash Connectivity Viewer**: 
 : Web-based interface for interacting with connectomics analysis framework CAVE
-[[`https://github.com/CAVEconnectome/dash-connectivity-viewer`](https://github.com/CAVEconnectome/dash-connectivity-viewer)]
+[[`https://github.com/CAVEconnectome/dash-connectivity-viewer`](github:CAVEconnectome/dash-connectivity-viewer)]
 
 **Tourguide**
 : Web-based tool for exploring neuroanatomy and guiding proofreading (replacing Guidebook)
-[[https://github.com/CAVEconnectome/Tourguide](https://github.com/CAVEconnectome/Tourguide)]
-
+[[https://github.com/CAVEconnectome/Tourguide](github:CAVEconnectome/Tourguide)]
 
 **Guidebook**
 : Web-based tool for exploring neuroanatomy and guiding proofreading (replaced by Tourguide)
-[[`https://github.com/CAVEconnectome/guidebook`](https://github.com/CAVEconnectome/guidebook)]
+[[`https://github.com/CAVEconnectome/guidebook`](github:CAVEconnectome/guidebook)]
 
 
 ## Service
