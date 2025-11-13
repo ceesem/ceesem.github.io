@@ -144,7 +144,7 @@ Working in the lab of Dr. Albert Cardona studying the neural basis of behavior i
 21. E. Khain, L.M. Sander, and **C.M. Schneider-Mizell**. *The role of cell-cell adhesion in wound healing*. Journal of Statistical Physics (2007) [[Journal](https://link.springer.com/article/10.1007/s10955-006-9194-8)]
 
 ## Talks, Conferences, Workshops, and Schools
-- Brain CONNECTS APEX Hackathon (W) [September 2025]{.cvdate}
+- Brain CONNECTS APEX Hackathon (W) [Sep 2025]{.cvdate}
 - Analysis and Modeling of Connectomes (T) [June 2025]{.cvdate}
 - Brain Mosaic, VIB Leuven, Belgium (T) [Oct 2024]{.cvdate}
 - Max Plank/HHMI Connectomics Meeting, Berlin, Germany (T) [June 2024]{.cvdate}
