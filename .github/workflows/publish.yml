@@ -14,11 +14,18 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
         
-      - name: Install weasyprint + dependencies
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install weasyprint + native dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y weasyprint
-          
+          sudo apt-get install -y libpango-1.0-0 libpangoft2-1.0-0 libharfbuzz-subset0
+          pip install weasyprint
+          weasyprint --info
+
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
