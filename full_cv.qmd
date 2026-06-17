@@ -111,7 +111,7 @@ BS, Mathematics and Physics (with honors), University of Washington, Seattle
 
 5. A Schoofs, A Miroschnikow, P Schlegel, I Zinke, **C.M. Schneider-Mizell**, A.M. Cardona, M.J. Pankratz. *Serotonergic reinforcement of a complete swallowing circuit*. Current Biology (2024). [[Journal](https://www.sciencedirect.com/science/article/pii/S0960982224011370)]
 
-6. (**µ**) C R Gamlin, [C.M. Schneider-Mizell](http://localhost:3929/full_cv.html), M Mallory, *et al.*..., S A Sorensen. *Connectomics of predicted Sst transcriptomic types in mouse visual cortex*. Nature, in press. [[BioRxiv](https://www.biorxiv.org/content/10.1101/2023.03.22.533857v1.abstract)]
+6. (**µ**) C R Gamlin, **C.M. Schneider-Mizell**, M Mallory, *et al.*..., S A Sorensen. *Connectomics of predicted Sst transcriptomic types in mouse visual cortex*. Nature, in press. [[BioRxiv](https://www.biorxiv.org/content/10.1101/2023.03.22.533857v1.abstract)]
 
 7. (**µ**) B Celii, S Papadopoulos, Z Ding, *et al.*..., J Reimer. *NEURD: automated proofreading and feature extraction for connectomics*. (2023) Nature, in press. [[BioRxiv](https://www.biorxiv.org/content/10.1101/2023.03.14.532674v3)]
 
@@ -222,32 +222,32 @@ BS, Mathematics and Physics (with honors), University of Washington, Seattle
 I have built, contributed to, and maintained several software packages for working with connectomics data. Some of those packages include:
 
 **NGLui**:
-: Rules-based conversion of dataframes to explorable Neuroglancer states used to visualize analysis and build interactive pipelines.  
-[[`https://caveconnectome.github.io/nglui/`](https://caveconnectome.github.io/nglui/)]
+: Rules-based conversion of dataframes to explorable Neuroglancer states used to visualize analysis and build interactive pipelines.
+[[`caveconnectome.github.io/nglui`](https://caveconnectome.github.io/nglui/)]
 
 **CAVEclient**:
-: Python Client for interacting with the connectomics analysis framework CAVE.  
-[[`https://caveconnectome.github.io/CAVEclient/`](https://caveconnectome.github.io/CAVEclient/)]
+: Python Client for interacting with the connectomics analysis framework CAVE.
+[[`caveconnectome.github.io/CAVEclient`](https://caveconnectome.github.io/CAVEclient/)]
 
 **pcg_skel**:
-: Fast skeletonization of very large neurons using core data representation of CAVE, the PyChunkedGraph, to analyze and visualize neuronal morphology.  
-[[`https://github.com/AllenInstitute/pcg_skel`](https://caveconnectome.github.io/pcg_skel)]
+: Fast skeletonization of very large neurons using core data representation of CAVE, the PyChunkedGraph, to analyze and visualize neuronal morphology.
+[[`caveconnectome.github.io/pcg_skel`](https://caveconnectome.github.io/pcg_skel)]
 
 **MeshParty**:
-: Built methods for working with neuronal meshes, skeletons, and connectivity indivudally and jointly.  
-[[`https://github.com/CAVEconnectome/MeshParty`](github:CAVEconnectome/MeshParty)]
+: Built methods for working with neuronal meshes, skeletons, and connectivity individually and jointly.
+[[`github.com/CAVEconnectome/MeshParty`](https://github.com/CAVEconnectome/MeshParty)]
 
-**Dash Connectivity Viewer**: 
-: Web-based interface for interacting with connectomics analysis framework CAVE
-[[`https://github.com/CAVEconnectome/dash-connectivity-viewer`](github:CAVEconnectome/dash-connectivity-viewer)]
+**Dash Connectivity Viewer**:
+: Web-based interface for interacting with connectomics analysis framework CAVE.
+[[`github.com/CAVEconnectome/dash-connectivity-viewer`](https://github.com/CAVEconnectome/dash-connectivity-viewer)]
 
-**Tourguide**
-: Web-based tool for exploring neuroanatomy and guiding proofreading (replacing Guidebook)
-[[https://github.com/CAVEconnectome/Tourguide](github:CAVEconnectome/Tourguide)]
+**Tourguide**:
+: Web-based tool for exploring neuroanatomy and guiding proofreading (replacing Guidebook).
+[[`github.com/CAVEconnectome/Tourguide`](https://github.com/CAVEconnectome/Tourguide)]
 
-**Guidebook**
-: Web-based tool for exploring neuroanatomy and guiding proofreading (replaced by Tourguide)
-[[`https://github.com/CAVEconnectome/guidebook`](github:CAVEconnectome/guidebook)]
+**Guidebook**:
+: Web-based tool for exploring neuroanatomy and guiding proofreading (replaced by Tourguide).
+[[`github.com/CAVEconnectome/guidebook`](https://github.com/CAVEconnectome/guidebook)]
 
 
 ## Service
