@@ -14,9 +14,10 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
         
-      - name: Install weasyprint + depencencies
+      - name: Install weasyprint + dependencies
         run: |
-          sudo apt-get install weasyprint
+          sudo apt-get update
+          sudo apt-get install -y weasyprint
           
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
